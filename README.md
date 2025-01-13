@@ -12,17 +12,17 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 
 | Week | Plan | Readings | Notes |
 | ---- | ---- | -------- | ----- |
-| 1 | Introduction & Review of S&P | [Grice (1975)](https://semantics.uchicago.edu/kennedy/classes/w14/implicature/readings/grice75.pdf) | README |
-| 2 | Gricean Maxims  |  | 01, 02, 03, 04 |
+| 1 | Introduction & Review of S&P |  | README |
+| 2 | Gricean Maxims  | Grice (1975) | 01, 02, 03, 04 |
 | 3 | Home-Based Learning |  | Happy Lunar New Year :) |
-| 4 | Scalar Implicature (SI) |  | TBA |
-| 5 | Grammatical SI | | TBA |
-| 6 | Rational Speech Acts |  | TBA |
-| 7 | Social Meanings |  | TBA |
-| 8 | Common Ground | | TBA |
-| 9 | Presuppositions | | TBA |
-| 10 | Anaphora |  | TBA |
-| 11 | Donkey Sentences | | TBA | 
+| 4 | Scalar Implicature I | Gamut (1991) ch6 | TBA |
+| 5 | Scalar Implicature II | Chierchia & Spector (2012) | TBA |
+| 6 | Rational Speech Acts | Degen (2023) | TBA |
+| 7 | Social Meanings | Qing (2019) | TBA |
+| 8 | Common Ground | Heim (1983) | TBA |
+| 9 | Presuppositions | Heim (1983) | TBA |
+| 10 | Anaphora | Heim (1982) ch1 | TBA |
+| 11 | Donkey Sentences | Heim (1982) ch1 | TBA | 
 | 12 | TBA | | TBA |
 | 13 | TBA | | | 
 
