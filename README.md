@@ -12,7 +12,7 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 
 | Week | Plan | Readings | Notes |
 | ---- | ---- | -------- | ----- |
-| 1 | Introduction & Review of S&P | Grice (1975) | README |
+| 1 | Introduction & Review of S&P | [Grice (1975)](https://semantics.uchicago.edu/kennedy/classes/w14/implicature/readings/grice75.pdf) | README |
 | 2 | Gricean Maxims  |  | 01, 02, 03, 04 |
 | 3 | Home-Based Learning |  | Happy Lunar New Year :) |
 | 4 | Scalar Implicature (SI) |  | TBA |
