@@ -16,3 +16,48 @@ In addition to conversational maxims, there are other principles—such as aesth
 ## Generating Conversational Implicature
 
 Grice's maxims provide an initial framework for *formalizing* the reasoning by which a hearer may infer that a speaker is conveying more than what is explicitly stated---an idea central to **conversational implicature**, which refers to information implied in a conversation but not directly expressed.
+
+### Quantity-based
+
+10. Kyle to Ellen: “I have $9.”
+
+> Conversational Implicature: Kyle does not have more than $9. <br>
+> - (a). Contextual premise: Both Kyle and Ellen need $10 for their movie tickets. <br>
+> - (b). Contextual premise: It is mutual, public information that Kyle has complete knowledge of how much money he has on him.<br>
+> - (c). Assume Kyle is cooperative at least insofar as he is obeying Quantity and Quality. <br>
+> - (d). Then he will assert what is maximally relevant, informative, and true.<br>
+> - (e). By (a), the proposition p that Kyle has $n for $9 < n \le 10$ is more informative and relevant in this context than the proposition that he has $9.<br>
+> - (f). Therefore, Kyle must lack sufficient evidence to assert p.<br>
+> - (g). By (b), he must lack evidence for p because it is false.
+>
+> The implicature is heavily dependent upon the contextual assumptions: If the tickets cost $9 rather than $10, then “I have $9” is as informative as is required. So, (e) is false, and the implicature cannot be derived.
+
+### Relevance-based
+
+11. Which city does Sue live in? ---- She lives in California.
+
+> Conversational Implicature: The addressee does not know which city Sue lives in.
+> - (a). Contextual premise: The addressee is willing to talk about Sue’s personal life.
+> - (b). Assume the addressee is cooperative.
+> - (c). Assume, towards a contradiction, that B does know which city Sue lives in (the negation of the implicature).
+> - (d). Supplying the city’s name would do better on Relevance and Quantity than supplying just the country name.
+> - (e). The contextual assumption is that B will supply such information.
+> - (f). This contradicts the cooperativity assumption (b).
+> - (g). We can therefore conclude that the implicature is true.
+>
+> If the conversational participants are planning a trip but have already sworn off visiting California, then the addressee’s answer might contain exactly the needed information, namely, that they won’t be visiting Sue. In this case, premise (d) does not hold, so the calculation doesn’t go through.
+>
+
+### Manner-based
+
+12. Well, this presentation was ... interesting.
+
+> Conversational Implicature: they did not actually find the presentation engaging.
+> - (a). Assume the speaker is cooperative.
+> - (b). There are less obscure words, like *clear*, *organized*, and *engaging*, competing with *interesting*.
+> - (c). If the speaker found the presentation clear, organized, or engaging, she would use these words.
+> - (d). This contradicts with (a).
+> - (e). The implicature must be true.
+
+
+
