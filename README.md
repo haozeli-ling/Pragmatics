@@ -12,18 +12,18 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 
 | Week | Plan | Readings | Notes |
 | ---- | ---- | -------- | ----- |
-| 1 | Introduction & Review of S&P | Partee () | README |
+| 1 | Introduction & Review of S&P | Grice (1975) | README |
 | 2 | Gricean Maxims  |  | 01, 02, 03, 04 |
-| 3 | NO CLASS |  | Happy Lunar New Year :) |
-| 4 | Commoun nouns and adjectives |  | TBA |
-| 5 | Definite descriptions | | TBA |
-| 6 | Pronoun & Trace |  | TBA |
-| 7 | Quantifiers |  | TBA |
-| 8 | Scope | | TBA |
-| 9 | Events and adverbs | | TBA |
-| 10 | Tense |  | TBA |
-| 11 | Aspect | | TBA | 
-| 12 | Intensions | | TBA |
+| 3 | Home-Based Learning |  | Happy Lunar New Year :) |
+| 4 | Scalar Implicature (SI) |  | TBA |
+| 5 | Grammatical SI | | TBA |
+| 6 | Rational Speech Acts |  | TBA |
+| 7 | Social Meanings |  | TBA |
+| 8 | Common Ground | | TBA |
+| 9 | Presuppositions | | TBA |
+| 10 | Anaphora |  | TBA |
+| 11 | Donkey Sentences | | TBA | 
+| 12 | TBA | | TBA |
 | 13 | TBA | | | 
 
 
