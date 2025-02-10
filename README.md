@@ -15,9 +15,9 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 | 1 | Introduction & Review of S&P |  | README |
 | 2 | Gricean Maxims  | Grice (1975) | 01, 02, 03, 04 |
 | 3 | Home-Based Learning |  | Happy Lunar New Year :) |
-| 4 | Scalar Implicature I | Gamut (1991) ch6 | 05, 06, 07 |
-| 5 | Scalar Implicature II | Chierchia & Spector (2012) | TBA |
-| 6 | Rational Speech Acts | Degen (2023) | TBA |
+| 4 | Scalar Implicature | Gamut (1991) ch6 | 05, 06, 07 |
+| 5 | Rational Speech Acts I | Chierchia & Spector (2012) | 08, 09 |
+| 6 | Rational Speech Acts II | Degen (2023) | TBA |
 | 7 | Social Meanings | Qing (2019) | TBA |
 | 8 | Common Ground | Heim (1983) | TBA |
 | 9 | Presuppositions | Heim (1983) | TBA |
